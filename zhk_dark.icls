@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="zhk_dark" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
@@ -121,19 +121,16 @@
     <option name="CSS.IDENT">
       <value>
         <option name="FOREGROUND" value="55aa1e" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="ef281c" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f51e1e" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="a082bd" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -215,7 +212,7 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="999999" />
-        <option name="EFFECT_COLOR" value="b20000" />
+        <option name="EFFECT_COLOR" value="f51e1e" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -388,8 +385,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="959cae" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="e664a0" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -473,25 +469,10 @@
         <option name="BACKGROUND" value="333333" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="de9633" />
         <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -648,14 +629,12 @@
     <option name="PHP_ESCAPE_SEQUENCE">
       <value>
         <option name="FOREGROUND" value="996600" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="ccccff" />
         <option name="BACKGROUND" value="3366" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_HEREDOC_CONTENT">
@@ -712,7 +691,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="e664a0" />
+        <option name="FOREGROUND" value="f51e1e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
